@@ -3,10 +3,10 @@
     "version": "0.1.0",
     "description": "Dark mode for Chrome",
     "manifest_version": 3,
-    "authon": "Angelo Velandia",
+    "author": "Angelo Velandia <@lovedev>",
     "content_scripts":  [
         {
-            "css": ["styles.css"],
+            "css": ["themes.css"],
             "matches": ["https://*.tiktok.com/*", "https://*.w3schools.com/*"]
         }
     ]

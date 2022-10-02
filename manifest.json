@@ -3,11 +3,11 @@
     "version": "0.1.0",
     "description": "Dark mode for Chrome",
     "manifest_version": 3,
-    "author": "Angelo Velandia",
+    "authon": "Angelo Velandia",
     "content_scripts":  [
         {
             "css": ["styles.css"],
-            "matches": ["https://*.tiktok.com/*"]
+            "matches": ["https://*.tiktok.com/*", "https://*.w3schools.com/*"]
         }
     ]
 

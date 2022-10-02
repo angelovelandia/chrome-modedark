@@ -10,6 +10,7 @@ _Para usar el proyecto solo debes descargar y extraer el archivo ZIP, despues su
 ## Paginas soportadas 🛠️
 
 * [TikTok](https://www.tiktok.com/)
+* [w3school](https://www.w3schools.com/)
 
 ## Autores ✒️
 
